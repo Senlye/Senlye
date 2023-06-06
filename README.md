@@ -6,9 +6,11 @@
 
 Я начинающий Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Я короче дизайню, там еще кодик пишу,анимешку смотрю!
 
-<p align="center">
-<iframe src="https://giphy.com/embed/v2c1tTPc30szC" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eye-berserk-v2c1tTPc30szC">via GIPHY</a></p>
-</p>
+![image]([https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif](https://giphy.com/gifs/eye-berserk-v2c1tTPc30szC))
+Описание:
+[https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif](https://giphy.com/gifs/eye-berserk-v2c1tTPc30szC)
+ URL-адрес ссылки - это URL-адрес ссылки, отображаемый в github после загрузки изображения в формате gif.
+
 
 - :telescope: Нигде не участвовал,и чо?!
 
