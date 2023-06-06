@@ -7,7 +7,7 @@
 Я начинающий Python разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Я короче дизайню, там еще кодик пишу,анимешку смотрю!
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+<iframe src="https://giphy.com/embed/v2c1tTPc30szC" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eye-berserk-v2c1tTPc30szC">via GIPHY</a></p>
 </p>
 
 - :telescope: Нигде не участвовал,и чо?!
